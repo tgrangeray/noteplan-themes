@@ -1,0 +1,238 @@
+{
+  "name": "Blue",
+  "style": "Light",
+  "author": {
+    "name": "Thierry Grangeray",
+    "email": "thierry.grangeray@gmail.com"
+  },
+
+  "editor": {
+    "backgroundColor": "#FFFFFF",
+    "altBackgroundColor": "#F8F8F8",
+    "tintColor": "#3071B5",
+    "tintColor2": "#DD3E3B",
+    "textColor": "#000000",
+    "toolbarBackgroundColor": "#D9D9D9",
+    "toolbarIconColor": "#414141",
+    "menuItemColor": "#414141",
+    "timeBlockColor": "#3071B5",
+    "shouldOverwriteFont": true
+  },
+
+  "styles": {
+    "body": {
+      "font": "AvenirNext-Regular",
+      "size": 14,
+      "color": "#000000"
+    },
+
+    "title1": {
+      "color": "#000000",
+      "size": 28
+    },
+
+    "title2": {
+      "color": "#000000",
+      "size": 24
+    },
+
+    "title3": {
+      "color": "#000000",
+      "size": 20
+    },
+
+    "working-on": {
+      "backgroundColor": "#306600FF",
+      "color": "#17003B"
+    },
+
+    "flagged-1": {
+      "backgroundColor": "#22D04023",
+      "color": "#59000B"
+    },
+
+    "flagged-2": {
+      "backgroundColor": "#40E3021D",
+      "color": "#420008"
+    },
+
+    "flagged-3": {
+      "backgroundColor": "#6FFF0202",
+      "color": "#1F0004"
+    },
+
+    "title-mark1": {
+      "color": "#45000000",
+      "size": 28,
+      "font": "AvenirNext-DemiBold"
+    },
+
+    "title-mark2": {
+      "color": "#45000000",
+      "size": 24,
+      "font": "AvenirNext-DemiBold"
+    },
+
+    "title-mark3": {
+      "color": "#45000000",
+      "size": 20,
+      "font": "AvenirNext-DemiBold"
+    },
+
+    "title4": {
+      "color": "#000000",
+      "size": 18,
+      "underlineStyle": 0,
+      "font": "AvenirNext-DemiBold"
+    },
+
+    "title-mark4": {
+      "color": "#45000000",
+      "size": 18,
+      "font": "AvenirNext-DemiBold"
+    },
+
+    "bold": {
+      "font": "AvenirNext-Regular"
+    },
+
+    "bold-left-mark": {
+      "color": "#45000000"
+    },
+
+    "bold-right-mark": {
+      "color": "#45000000"
+    },
+
+    "italic": {
+      "font": "AvenirNext-Italic"
+    },
+
+    "italic-left-mark": {
+      "color": "#45000000"
+    },
+
+    "italic-right-mark": {
+      "color": "#45000000"
+    },
+
+    "boldItalic": {
+      "font": "AvenirNext-BoldItalic"
+    },
+
+    "boldItalic-left-mark": {
+      "color": "#45000000"
+    },
+
+    "boldItalic-right-mark": {
+      "color": "#45000000"
+    },
+
+    "code": {
+      "font": "Menlo-Regular",
+      "color": "#DD3E3B",
+      "size": 15
+    },
+
+    "code-left-backtick": {
+      "color": "#66DD3E3B"
+    },
+
+    "code-right-backtick": {
+      "color": "#66DD3E3B"
+    },
+
+    "checked": {
+      "color": "#66000000",
+      "headIndent": 33
+    },
+
+    "todo": {
+      "font": "noteplanstate",
+      "color": "#3071B5",
+      "headIndent": 33,
+      "size": 16
+    },
+
+    "checked-todo-characters": {
+      "font": "noteplanstate",
+      "headIndent": 33,
+      "size": 16
+    },
+
+    "tabbed": {
+      "headIndent": 43
+    },
+
+    "quote-mark": {
+      "color": "#800091f8",
+      "font": "noteplanstate",
+      "headIndent": 33,
+      "size": 16
+    },
+
+    "quote-content": {
+      "color": "#000000",
+      "type": "italic",
+      "headIndent": 33
+    },
+
+    "link": {},
+
+    "schedule-to-date-link": {},
+
+    "done-date": {},
+
+    "schedule-from-date-link": {},
+
+    "note-title-link": {},
+
+    "hashtag": {
+      "backgroundColor": "#203071B5"
+    },
+
+    "attag": {
+      "backgroundColor": "#203071B5"
+    },
+
+    "phonenumber": {},
+
+    "highlighted": {
+      "backgroundColor": "#75f7e494"
+    },
+
+    "highlighted-left-marker": {
+      "color": "#40000000"
+    },
+
+    "highlighted-right-marker": {
+      "color": "#40000000"
+    },
+
+    "strikethrough": {
+      "color": "#99333333",
+      "strikethroughColor": "#DD333333"
+    },
+
+    "strikethrough-left-tilde": {
+      "color": "#44333333"
+    },
+
+    "strikethrough-right-tilde": {
+      "color": "#44333333"
+    },
+
+    "underline": {
+      "underlineStyle": 2,
+      "underlineColor": "#FFCC66"
+    },
+
+    "underline-left-tilde": {
+      "color": "#44333333"
+    },
+
+    "underline-right-tilde": {
+      "color": "#44333333"
+    }
+  }
+}
